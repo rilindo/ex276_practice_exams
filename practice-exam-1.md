@@ -14,3 +14,6 @@
 13. Instantiate mySQL container, with root password of "man@geASS3t!"
 14. Instantiate snipeitapp docker image and link to mySQL container
 15. Upload mySQL and snipeitapp image.
+16. Create container volume.
+17. Add index.html files to container volume.
+18. Instantiate Apache container, mount volume container the index.html
